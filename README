@@ -1,0 +1,15 @@
+----
+FASTCHAT - HTML, PHP & MySQL, Bootstrap, AJAX
+Version: v1.0
+---
+
+SQL Tables
+
+Table: sessions
+
+session_id 
+session_name
+session_ip
+session_proxy_ip
+session_browser
+session_user_agent
